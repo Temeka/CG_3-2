@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InLineGuessingGame", "InLineGuessingGame\InLineGuessingGame.csproj", "{FCE1B9B9-C94D-4670-9B9D-8B0D7C30F7D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE1B9B9-C94D-4670-9B9D-8B0D7C30F7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE1B9B9-C94D-4670-9B9D-8B0D7C30F7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE1B9B9-C94D-4670-9B9D-8B0D7C30F7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE1B9B9-C94D-4670-9B9D-8B0D7C30F7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D96000A-5BCD-4CCF-BCA9-90E4BF4A0FBC}
+	EndGlobalSection
+EndGlobal
